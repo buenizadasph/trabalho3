@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(
+        135deg,
+        #000000,
+        #f5f5f5
+    );
+
+    font-family: Monaco;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.Cartel{
+
+    width: 220px;
+    margin:60px auto;
+    background-color:rgb(152, 152, 152);
+    padding:30px;
+    border-radius:15px;
+    text-align:center;
+}
+img { 
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100px;
+
+}
+h1{
+    color: #000000;
+}
+h2{
+    color: #000000a0;
+}
+p{
+    color: #00000095;
+}
+button{
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #000000;
+    color:white;
+    font-size: 15px;
+}
+div {
+  border: 10px solid rgb(0, 0, 0);
+}
+
+
+
+
+
+
